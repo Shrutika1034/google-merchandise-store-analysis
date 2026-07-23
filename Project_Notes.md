@@ -143,3 +143,77 @@ To calculate the average value of a numeric column.
 ### Why CAST()?
 
 Because `pageviews` is stored as text and must be converted to an integer for mathematical calculations.
+
+
+
+# Lesson 3 – Country Analysis
+
+## Business Requirement
+
+Identify the countries generating the highest website traffic and revenue.
+
+---
+
+## SQL Concepts Learned
+
+- COUNT(DISTINCT)
+- GROUP BY
+- ORDER BY
+- LIMIT
+- SUM()
+- ROUND()
+- FORMAT()
+
+---
+
+## Results
+
+### Total Countries
+
+215
+
+### Top Traffic Countries
+
+1. United States
+2. Canada
+3. India
+4. United Kingdom
+5. Japan
+
+### Top Revenue Countries
+
+1. United States
+2. Venezuela
+3. Canada
+4. Indonesia
+5. Japan
+
+---
+
+## Business Insights
+
+- Visitors originate from 215 countries.
+- The United States is the dominant market in both traffic and revenue.
+- Canada and India generate significant website traffic.
+- Some countries generate high revenue despite comparatively lower traffic, suggesting stronger purchase behavior.
+- Regional marketing strategies can be optimized based on traffic and revenue performance.
+
+---
+
+## Interview Questions
+
+### Why use COUNT(DISTINCT)?
+
+To count unique values without duplicates.
+
+### Why use SUM()?
+
+To calculate total revenue.
+
+### Why use LIMIT?
+
+To return only the required number of rows.
+
+### Why use FORMAT()?
+
+To display large numeric values in a readable format.
