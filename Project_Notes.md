@@ -217,3 +217,39 @@ To return only the required number of rows.
 ### Why use FORMAT()?
 
 To display large numeric values in a readable format.
+
+
+# Lesson 4 – Product Analysis
+
+## Business Requirement
+
+Analyze product performance based on views, quantity sold, and revenue.
+
+---
+
+## SQL Concepts Learned
+
+- SUM()
+- IFNULL()
+- COUNT()
+- GROUP BY
+- ORDER BY
+- LIMIT
+
+---
+
+## Business Questions
+
+1. Which products receive the most views?
+2. Which products generate the highest revenue?
+3. Which products sell the highest quantity?
+4. Which product categories perform best?
+
+---
+
+## Business Value
+
+- Improve inventory management
+- Identify top-selling products
+- Promote high-performing products
+- Optimize product marketing
