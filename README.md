@@ -61,17 +61,6 @@ The objective is to solve real-world business problems using SQL, generate actio
 - Average page views by marketing channel
 - Marketing performance insights
 
-### 🚧 Upcoming Lessons
-
-- Country Analysis
-- Product Analysis
-- Revenue Analysis
-- Customer Analysis
-- Conversion Rate Analysis
-- Funnel Analysis
-- Window Functions
-- Final Business Insights Dashboard
-
 ---
 
 ## 📁 Project Structure
