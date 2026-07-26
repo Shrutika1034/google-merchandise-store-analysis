@@ -1,5 +1,8 @@
 # 🛒 Google Merchandise Store Analysis
 
+> **An end-to-end SQL Data Analytics project using Google BigQuery to analyze over 21 million ecommerce sessions and generate business insights through data exploration, revenue analysis, customer behavior, and interactive dashboards.**
+
+
 ## 📌 Project Overview
 
 This project analyzes the **Google Merchandise Store** dataset using **Google BigQuery (Standard SQL)** to solve real-world e-commerce business problems.
