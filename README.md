@@ -75,7 +75,7 @@ The objective is to transform raw website session data into actionable business 
 | ✅ Lesson 2 | Marketing Channel Analysis | Completed |
 | ✅ Lesson 3 | Country Analysis | Completed |
 | ✅ Lesson 4 | Product Analysis | Completed |
-| ⏳ Lesson 5 | Revenue Analysis | Upcoming |
+| ✅ Lesson 5 | Revenue Analysis | Completed |
 | ⏳ Lesson 6 | Customer Analysis | Upcoming |
 | ⏳ Lesson 7 | Conversion Rate Analysis | Upcoming |
 | ⏳ Lesson 8 | Funnel Analysis | Upcoming |

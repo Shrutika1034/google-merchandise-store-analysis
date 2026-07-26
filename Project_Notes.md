@@ -253,3 +253,41 @@ Analyze product performance based on views, quantity sold, and revenue.
 - Identify top-selling products
 - Promote high-performing products
 - Optimize product marketing
+
+
+# Lesson 5 – Revenue Analysis
+
+## Business Requirement
+
+Analyze revenue performance across the ecommerce store.
+
+---
+
+## SQL Concepts Learned
+
+- SUM()
+- AVG()
+- ROUND()
+- IFNULL()
+- GROUP BY
+- ORDER BY
+- LIMIT
+
+---
+
+## Business Questions
+
+1. What is the total revenue?
+2. Which marketing channels generate the most revenue?
+3. Which countries generate the highest revenue?
+4. What is the average revenue per transaction?
+5. Which products contribute the highest revenue?
+
+---
+
+## Business Value
+
+- Identify profitable marketing channels
+- Understand regional revenue distribution
+- Improve pricing and sales strategies
+- Prioritize high-value products
