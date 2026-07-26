@@ -8,12 +8,36 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-success)
 ![Status](https://img.shields.io/badge/Project-In%20Progress-yellow)
 
+## 📑 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Project Objectives](#-project-objectives)
+- [Dataset Information](#-dataset-information)
+- [Tools & Technologies](#️-tools--technologies)
+- [SQL Concepts Covered](#-sql-concepts-covered)
+- [Project Progress](#-project-progress)
+- [Dashboard Preview](#-dashboard-preview)
+- [Business Problems Solved](#-business-problems-solved)
+- [Key Business Insights](#-key-business-insights)
+- [Project Structure](#-project-structure)
+- [Future Enhancements](#-future-enhancements)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Learning Outcomes](#-learning-outcomes)
+- [Dataset Scale](#-dataset-scale)
+- [Author](#-author)
+
 
 ## 📌 Project Overview
 
 This project analyzes the **Google Merchandise Store** dataset using **Google BigQuery (Standard SQL)** to solve real-world e-commerce business problems.
 
 The objective is to transform raw website session data into actionable business insights through SQL analysis and build an interactive business intelligence dashboard using **Looker Studio**. The project demonstrates practical SQL skills commonly used by Data Analysts and Business Intelligence professionals.
+
+---
+
+## 🚀 Project Status
+
+**Current Progress:** 5 / 10 Lessons Completed
 
 ---
 
@@ -27,6 +51,17 @@ The objective is to transform raw website session data into actionable business 
 - Calculate conversion metrics
 - Perform funnel analysis
 - Build an executive dashboard
+
+---
+
+## 🌟 Repository Highlights
+
+- 📊 21+ Million Ecommerce Session Records
+- 💻 10 SQL Business Case Studies
+- 📈 Business-Oriented Data Analysis
+- 📷 Query Results & Screenshots
+- 📊 Interactive Looker Studio Dashboard (Upcoming)
+- 🔄 Version Controlled with Git & GitHub
 
 ---
 
@@ -93,11 +128,17 @@ The objective is to transform raw website session data into actionable business 
 
 ---
 
-# 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
-> 🚧 Dashboard is currently under development.
+🚧 **Dashboard development is in progress.**
 
-Dashboard screenshots and interactive Looker Studio report will be added after completing the final project.
+The final project will include:
+
+- Executive KPI Dashboard
+- Revenue Analysis Dashboard
+- Product Performance Dashboard
+- Marketing Performance Dashboard
+- Customer Insights Dashboard
 
 ---
 
@@ -274,6 +315,18 @@ Google-Merchandise-Store-Analysis
 
 ---
 
+## ✨ Repository Features
+
+- Business-oriented SQL case studies
+- Well-documented SQL scripts
+- Organized project structure
+- Real-world ecommerce dataset
+- Query output screenshots
+- Professional Git workflow
+- Dashboard-ready analysis
+
+---
+
 # 📖 Learning Outcomes
 
 Through this project I practiced:
@@ -289,12 +342,13 @@ Through this project I practiced:
 
 ## 📊 Dataset Scale
 
-- 📁 Dataset: Google Merchandise Store
-- 📈 Records: 21,493,109
-- 🌍 Countries: 215
-- 🛒 Ecommerce Sessions: 21M+
-- 💻 SQL Files: 10
-- 📷 Screenshots: 50+
+| Metric | Value |
+|---------|------:|
+| Total Records | 21,493,109 |
+| Countries | 215 |
+| SQL Files | 10 |
+| Screenshots | 50+ |
+| Dashboard | 1 (Upcoming) |
 
 ---
 
