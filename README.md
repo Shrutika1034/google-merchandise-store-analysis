@@ -6,7 +6,7 @@
 ![BigQuery](https://img.shields.io/badge/Google-BigQuery-orange)
 ![Looker Studio](https://img.shields.io/badge/Looker-Studio-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-success)
-![Status](https://img.shields.io/badge/Project-In%20Progress-yellow)
+![Status](https://img.shields.io/badge/Status-50%25%20Complete-brightgreen)
 
 ## 📑 Table of Contents
 
