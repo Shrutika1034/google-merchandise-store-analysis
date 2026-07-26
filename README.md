@@ -41,6 +41,14 @@ The objective is to transform raw website session data into actionable business 
 
 ---
 
+## 📌 Disclaimer
+
+This project was created for **learning and portfolio purposes** using the publicly available **Google Merchandise Store** dataset available in **Google BigQuery**.
+
+The SQL queries, documentation, business insights, screenshots, and project organization are my own work. The dataset is provided by Google for educational and analytical purposes.
+
+---
+
 ## 🎯 Project Objectives
 
 - Explore and understand the ecommerce dataset
