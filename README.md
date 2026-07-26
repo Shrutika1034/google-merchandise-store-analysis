@@ -123,6 +123,16 @@ The objective is to transform raw website session data into actionable business 
 
 ---
 
+## ✅ Lesson 5 – Revenue Analysis
+
+- Calculated total revenue
+- Analyzed revenue by marketing channel
+- Identified top revenue-generating countries
+- Calculated average revenue per transaction
+- Ranked top revenue-generating products
+
+---
+
 # 📊 Key Business Insights
 
 ### 📦 Dataset
