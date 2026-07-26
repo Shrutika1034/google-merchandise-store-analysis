@@ -170,6 +170,16 @@ The objective is to transform raw website session data into actionable business 
 
 ---
 
+### 💰 Revenue Analysis
+
+- Calculated overall store revenue.
+- Identified the highest revenue-generating marketing channels.
+- Ranked the top revenue-generating countries.
+- Measured the average revenue per transaction.
+- Identified the products contributing the highest revenue.
+
+---
+
 # 📁 Project Structure
 
 ```text
