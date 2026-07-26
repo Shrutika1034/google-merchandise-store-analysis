@@ -194,7 +194,8 @@ Google-Merchandise-Store-Analysis
 │   ├── Lesson_01_Data_Exploration/
 │   ├── Lesson_02_Marketing_Channel/
 │   ├── Lesson_03_Country_Analysis/
-│   └── Lesson_04_Product_Analysis/
+│   ├── Lesson_04_Product_Analysis/
+│   └── Lesson_05_Revenue_Analysis/
 │
 ├── SQL/
 │   ├── 01_data_exploration.sql
@@ -208,10 +209,7 @@ Google-Merchandise-Store-Analysis
 │   ├── 09_window_functions.sql
 │   └── 10_final_business_insights.sql
 │
-├── Dashboard/
-│
 ├── README.md
-│
 └── Project_Notes.md
 ```
 
@@ -231,16 +229,58 @@ Google-Merchandise-Store-Analysis
 
 # 🎓 Skills Demonstrated
 
-- SQL for Data Analytics
+### SQL
+
 - Data Exploration
+- Data Aggregation
 - Data Cleaning
-- Business Analysis
-- Aggregation & Reporting
-- Analytical Thinking
-- Data Visualization
-- BigQuery
-- Git & GitHub
-- Dashboard Development
+- Business Reporting
+- Revenue Analysis
+
+### Google BigQuery
+
+- Standard SQL
+- Large-scale Dataset Analysis
+- Query Optimization
+
+### Business Intelligence
+
+- Marketing Analysis
+- Product Performance
+- Revenue Analytics
+- Customer Insights
+
+### Tools
+
+- Google BigQuery
+- Looker Studio
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+# 📖 Learning Outcomes
+
+Through this project I practiced:
+
+- Writing business-focused SQL queries
+- Solving real-world ecommerce problems
+- Working with datasets containing over 21 million records
+- Performing exploratory and descriptive analytics
+- Preparing data for dashboard development
+- Managing projects using Git and GitHub
+
+---
+
+## 📊 Dataset Scale
+
+- 📁 Dataset: Google Merchandise Store
+- 📈 Records: 21,493,109
+- 🌍 Countries: 215
+- 🛒 Ecommerce Sessions: 21M+
+- 💻 SQL Files: 10
+- 📷 Screenshots: 50+
 
 ---
 
@@ -248,7 +288,15 @@ Google-Merchandise-Store-Analysis
 
 **Shrutika**
 
-Aspiring Data Analyst | SQL | Python | BigQuery | Power BI | Data Visualization
+Aspiring Data Analyst
+
+**Skills**
+- SQL
+- Python
+- Google BigQuery
+- Power BI
+- Data Visualization
+- Git & GitHub
 
 ---
 
