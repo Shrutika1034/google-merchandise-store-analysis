@@ -2,6 +2,12 @@
 
 > **An end-to-end SQL Data Analytics project using Google BigQuery to analyze over 21 million ecommerce sessions and generate business insights through data exploration, revenue analysis, customer behavior, and interactive dashboards.**
 
+![SQL](https://img.shields.io/badge/SQL-BigQuery-blue)
+![BigQuery](https://img.shields.io/badge/Google-BigQuery-orange)
+![Looker Studio](https://img.shields.io/badge/Looker-Studio-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-success)
+![Status](https://img.shields.io/badge/Project-In%20Progress-yellow)
+
 
 ## 📌 Project Overview
 
@@ -84,6 +90,14 @@ The objective is to transform raw website session data into actionable business 
 | ⏳ Lesson 8 | Funnel Analysis | Upcoming |
 | ⏳ Lesson 9 | Window Functions | Upcoming |
 | ⏳ Lesson 10 | Final Business Dashboard | Upcoming |
+
+---
+
+# 📊 Dashboard Preview
+
+> 🚧 Dashboard is currently under development.
+
+Dashboard screenshots and interactive Looker Studio report will be added after completing the final project.
 
 ---
 
