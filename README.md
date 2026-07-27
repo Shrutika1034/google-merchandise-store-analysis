@@ -279,7 +279,8 @@ Google-Merchandise-Store-Analysis
 │   ├── Lesson_03_Country_Analysis/
 │   ├── Lesson_04_Product_Analysis/
 │   └── Lesson_05_Revenue_Analysis/
-│
+│   └── Lesson_06_Customer_Analysis/
+|
 ├── SQL/
 │   ├── 01_data_exploration.sql
 │   ├── 02_marketing_channel_analysis.sql
@@ -375,7 +376,7 @@ Through this project I practiced:
 | Total Records | 21,493,109 |
 | Countries | 215 |
 | SQL Files | 10 |
-| Screenshots | 50+ |
+| Screenshots | 30+ |
 | Dashboard | 1 (Upcoming) |
 
 ---
