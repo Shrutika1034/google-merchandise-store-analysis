@@ -128,7 +128,7 @@ The SQL queries, documentation, business insights, screenshots, and project orga
 | ✅ Lesson 3 | Country Analysis | Completed |
 | ✅ Lesson 4 | Product Analysis | Completed |
 | ✅ Lesson 5 | Revenue Analysis | Completed |
-| ⏳ Lesson 6 | Customer Analysis | Upcoming |
+| ✅ Lesson 6 | Customer Analysis | Completed |
 | ⏳ Lesson 7 | Conversion Rate Analysis | Upcoming |
 | ⏳ Lesson 8 | Funnel Analysis | Upcoming |
 | ⏳ Lesson 9 | Window Functions | Upcoming |
@@ -199,6 +199,16 @@ The final project will include:
 
 ---
 
+## ✅ Lesson 6 – Customer Analysis
+
+- Calculated total unique visitors
+- Ranked countries by unique visitors
+- Compared customer acquisition across marketing channels
+- Compared purchasing and non-purchasing visitors
+- Calculated purchase rate by country
+
+---
+
 # 📊 Key Business Insights
 
 ### 📦 Dataset
@@ -243,6 +253,16 @@ The final project will include:
 - Ranked the top revenue-generating countries.
 - Measured the average revenue per transaction.
 - Identified the products contributing the highest revenue.
+
+---
+
+### 👥 Customer Analysis
+
+- Measured the total number of unique visitors.
+- Identified the countries contributing the largest customer base.
+- Evaluated customer acquisition across marketing channels.
+- Compared visitors who completed purchases with those who did not.
+- Identified countries with the highest customer purchase rates.
 
 ---
 
