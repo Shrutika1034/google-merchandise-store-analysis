@@ -331,3 +331,43 @@ Analyze customer behavior to understand visitor distribution, purchasing pattern
 - Understand purchasing behavior
 - Compare customer conversion across countries
 - Support business growth strategies
+
+
+
+# Lesson 7 – Conversion Rate Analysis
+
+## Business Requirement
+
+Measure website conversion performance across visitors, marketing channels, countries, products, and product categories.
+
+---
+
+## SQL Concepts Learned
+
+- COUNT(DISTINCT)
+- CASE WHEN
+- ROUND()
+- GROUP BY
+- HAVING
+- ORDER BY
+- LIMIT
+
+---
+
+## Business Questions
+
+1. What is the overall conversion rate?
+2. Which marketing channels have the highest conversion rate?
+3. Which countries have the highest conversion rate?
+4. Which products are purchased most frequently?
+5. Which product categories generate the most purchases?
+
+---
+
+## Business Value
+
+- Evaluate website performance
+- Measure marketing effectiveness
+- Improve customer acquisition strategies
+- Identify high-converting products
+- Support business decision-making
