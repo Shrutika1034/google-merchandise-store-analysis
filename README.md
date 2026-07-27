@@ -129,7 +129,7 @@ The SQL queries, documentation, business insights, screenshots, and project orga
 | ✅ Lesson 4 | Product Analysis | Completed |
 | ✅ Lesson 5 | Revenue Analysis | Completed |
 | ✅ Lesson 6 | Customer Analysis | Completed |
-| ⏳ Lesson 7 | Conversion Rate Analysis | Upcoming |
+| ✅ Lesson 7 | Conversion Rate Analysis | Completed |
 | ⏳ Lesson 8 | Funnel Analysis | Upcoming |
 | ⏳ Lesson 9 | Window Functions | Upcoming |
 | ⏳ Lesson 10 | Final Business Dashboard | Upcoming |
@@ -209,6 +209,16 @@ The final project will include:
 
 ---
 
+## ✅ Lesson 7 – Conversion Rate Analysis
+
+- Calculated the overall website conversion rate
+- Compared conversion rates across marketing channels
+- Ranked countries by conversion rate
+- Identified the most purchased products
+- Analyzed purchases by product category
+
+---
+
 # 📊 Key Business Insights
 
 ### 📦 Dataset
@@ -263,6 +273,16 @@ The final project will include:
 - Evaluated customer acquisition across marketing channels.
 - Compared visitors who completed purchases with those who did not.
 - Identified countries with the highest customer purchase rates.
+
+---
+
+### 📈 Conversion Rate Analysis
+
+- Calculated the overall website conversion rate.
+- Identified marketing channels with the highest conversion rates.
+- Compared customer conversion across countries.
+- Ranked the most frequently purchased products.
+- Evaluated product categories based on completed purchases.
 
 ---
 
