@@ -291,3 +291,43 @@ Analyze revenue performance across the ecommerce store.
 - Understand regional revenue distribution
 - Improve pricing and sales strategies
 - Prioritize high-value products
+
+
+
+# Lesson 6 – Customer Analysis
+
+## Business Requirement
+
+Analyze customer behavior to understand visitor distribution, purchasing patterns, and customer engagement across countries and marketing channels.
+
+---
+
+## SQL Concepts Learned
+
+- COUNT(DISTINCT)
+- CASE WHEN
+- GROUP BY
+- HAVING
+- ORDER BY
+- LIMIT
+- ROUND()
+
+---
+
+## Business Questions
+
+1. How many unique visitors does the website have?
+2. Which countries have the highest number of unique visitors?
+3. Which marketing channels attract the most visitors?
+4. How many visitors completed a purchase?
+5. Which countries have the highest customer purchase rate?
+
+---
+
+## Business Value
+
+- Measure customer reach
+- Evaluate customer acquisition channels
+- Understand purchasing behavior
+- Compare customer conversion across countries
+- Support business growth strategies
