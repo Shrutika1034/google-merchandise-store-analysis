@@ -4,7 +4,7 @@
 
 ![SQL](https://img.shields.io/badge/SQL-BigQuery-blue)
 ![BigQuery](https://img.shields.io/badge/Google-BigQuery-orange)
-![Looker Studio](https://img.shields.io/badge/Looker-Studio-blue)
+![Power BI](https://img.shields.io/badge/Looker-Studio-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-success)
 ![Status](https://img.shields.io/badge/Status-50%25%20Complete-brightgreen)
 
@@ -31,13 +31,19 @@
 
 This project analyzes the **Google Merchandise Store** dataset using **Google BigQuery (Standard SQL)** to solve real-world e-commerce business problems.
 
-The objective is to transform raw website session data into actionable business insights through SQL analysis and build an interactive business intelligence dashboard using **Looker Studio**. The project demonstrates practical SQL skills commonly used by Data Analysts and Business Intelligence professionals.
+The objective is to transform raw website session data into actionable business insights through SQL analysis and build an interactive business intelligence dashboard using **Power BI**. The project demonstrates practical SQL skills commonly used by Data Analysts and Business Intelligence professionals.
 
 ---
 
 ## 🚀 Project Status
 
-**Current Progress:** 5 / 10 Lessons Completed
+**Status:** ✅ Completed
+
+**Lessons Completed:** 10 / 10
+
+**Dataset:** Google Merchandise Store (Google BigQuery)
+
+**Project Type:** End-to-End SQL Data Analytics Portfolio
 
 ---
 
@@ -68,7 +74,7 @@ The SQL queries, documentation, business insights, screenshots, and project orga
 - 💻 10 SQL Business Case Studies
 - 📈 Business-Oriented Data Analysis
 - 📷 Query Results & Screenshots
-- 📊 Interactive Looker Studio Dashboard (Upcoming)
+- 📊 Interactive Power BI Dashboard (Coming Soon)
 - 🔄 Version Controlled with Git & GitHub
 
 ---
@@ -89,7 +95,7 @@ The SQL queries, documentation, business insights, screenshots, and project orga
 
 - Google BigQuery
 - SQL (Standard SQL)
-- Looker Studio
+- Power BI
 - Git
 - GitHub
 - Visual Studio Code
@@ -99,9 +105,9 @@ The SQL queries, documentation, business insights, screenshots, and project orga
 ## 📚 SQL Concepts Covered
 
 - SELECT
-- FROM
 - WHERE
-- DISTINCT
+- GROUP BY
+- ORDER BY
 - LIMIT
 - COUNT()
 - SUM()
@@ -109,13 +115,16 @@ The SQL queries, documentation, business insights, screenshots, and project orga
 - ROUND()
 - CAST()
 - IFNULL()
-- GROUP BY
-- ORDER BY
-- HAVING
 - CASE WHEN
-- Window Functions *(Upcoming)*
-- Common Table Expressions (CTEs) *(Upcoming)*
-- Subqueries *(Upcoming)*
+- HAVING
+- PARSE_DATE()
+- Common Table Expressions (CTEs)
+- Window Functions
+- ROW_NUMBER()
+- RANK()
+- DENSE_RANK()
+- PARTITION BY
+- SUM() OVER()
 
 ---
 
@@ -132,21 +141,23 @@ The SQL queries, documentation, business insights, screenshots, and project orga
 | ✅ Lesson 7 | Conversion Rate Analysis | Completed |
 | ✅ Lesson 8 | Sales Performance Analysis | Completed |
 | ✅ Lesson 9 | Advanced SQL Analysis | Completed |
-| ⏳ Lesson 10 | Final Business Dashboard | Upcoming |
-
+| ✅ Lesson 10 | Executive Business Insights | Completed |
 ---
 
-## 📊 Dashboard Preview
+## 📊 Dashboard
 
-🚧 **Dashboard development is in progress.**
+The SQL analysis in this repository is designed to support an interactive business dashboard.
 
-The final project will include:
+The planned dashboard will include:
 
-- Executive KPI Dashboard
-- Revenue Analysis Dashboard
-- Product Performance Dashboard
-- Marketing Performance Dashboard
-- Customer Insights Dashboard
+- Executive KPIs
+- Revenue Overview
+- Customer Analysis
+- Product Performance
+- Marketing Performance
+- Geographic Analysis
+
+> Dashboard development is planned as the next phase of this project.
 
 ---
 
@@ -329,18 +340,26 @@ The final project will include:
 # 📁 Project Structure
 
 ```text
-Google-Merchandise-Store-Analysis
+Google-Merchandise-Store-Analysis/
 │
 ├── Dashboard/
+│   └── README.md
+│
+├── Project_Notes/
+│   └── 10_Executive_Business_Insights.md
 │
 ├── Screenshots/
 │   ├── Lesson_01_Data_Exploration/
 │   ├── Lesson_02_Marketing_Channel/
 │   ├── Lesson_03_Country_Analysis/
 │   ├── Lesson_04_Product_Analysis/
-│   └── Lesson_05_Revenue_Analysis/
-│   └── Lesson_06_Customer_Analysis/
-|
+│   ├── Lesson_05_Revenue_Analysis/
+│   ├── Lesson_06_Customer_Analysis/
+│   ├── Lesson_07_Conversion_Rate_Analysis/
+│   ├── Lesson_08_Sales_Performance_Analysis/
+│   ├── Lesson_09_Advanced_SQL/
+│   └── Lesson_10_Executive_Report/
+│
 ├── SQL/
 │   ├── 01_data_exploration.sql
 │   ├── 02_marketing_channel_analysis.sql
@@ -349,25 +368,25 @@ Google-Merchandise-Store-Analysis
 │   ├── 05_revenue_analysis.sql
 │   ├── 06_customer_analysis.sql
 │   ├── 07_conversion_rate.sql
-│   ├── 08_funnel_analysis.sql
-│   ├── 09_window_functions.sql
-│   └── 10_final_business_insights.sql
+│   ├── 08_sales_performance_analysis.sql
+│   └── 09_advanced_sql_analysis.sql
 │
 ├── README.md
-└── Project_Notes.md
+├── LICENSE
+└── .gitignore
 ```
 
 ---
 
 # 🚀 Future Enhancements
 
-- Develop an interactive Looker Studio dashboard
-- Create executive KPI scorecards
-- Perform customer segmentation
-- Analyze customer retention
-- Build conversion funnels
-- Identify high-value customers
-- Perform time-series revenue analysis
+- Build Power BI Dashboard
+- Publish interactive dashboard
+- Add dashboard screenshots
+- Create KPI cards
+- Customer segmentation
+- Customer retention analysis
+- Time-series forecasting
 
 ---
 
@@ -377,9 +396,14 @@ Google-Merchandise-Store-Analysis
 
 - Data Exploration
 - Data Aggregation
-- Data Cleaning
+- Filtering
+- Joins
+- CASE WHEN
+- GROUP BY
+- HAVING
+- CTEs
+- Window Functions
 - Business Reporting
-- Revenue Analysis
 
 ### Google BigQuery
 
@@ -394,13 +418,14 @@ Google-Merchandise-Store-Analysis
 - Revenue Analytics
 - Customer Insights
 
-### Tools
+## 🛠️ Tools & Technologies
 
-- Google BigQuery
-- Looker Studio
+- SQL (Google BigQuery)
+- Google Cloud Platform (BigQuery Public Dataset)
+- Visual Studio Code
 - Git
 - GitHub
-- Visual Studio Code
+- Power BI *(Planned)*
 
 ---
 
@@ -437,7 +462,7 @@ Through this project I practiced:
 | Countries | 215 |
 | SQL Files | 10 |
 | Screenshots | 30+ |
-| Dashboard | 1 (Upcoming) |
+| Dashboard | Planned |
 
 ---
 
@@ -447,13 +472,28 @@ Through this project I practiced:
 
 Aspiring Data Analyst
 
-**Skills**
+## 💼 Skills Demonstrated
+
 - SQL
-- Python
 - Google BigQuery
-- Power BI
-- Data Visualization
+- Data Analysis
+- Business Analytics
+- Window Functions
+- Common Table Expressions (CTEs)
+- Marketing Analytics
+- Revenue Analytics
+- Customer Analytics
 - Git & GitHub
+
+---
+
+## 🌐 Portfolio
+
+Coming Soon
+
+- GitHub Repository
+- Power BI Dashboard
+- LinkedIn Project Showcase
 
 ---
 
