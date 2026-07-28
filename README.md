@@ -2,11 +2,12 @@
 
 > **An end-to-end SQL Data Analytics project using Google BigQuery to analyze over 21 million ecommerce sessions and generate business insights through data exploration, revenue analysis, customer behavior, and interactive dashboards.**
 
+![License](https://img.shields.io/badge/License-MIT-green)
+![Dataset](https://img.shields.io/badge/Dataset-21.4M%20Records-blueviolet)
 ![SQL](https://img.shields.io/badge/SQL-BigQuery-blue)
-![BigQuery](https://img.shields.io/badge/Google-BigQuery-orange)
 ![Power BI](https://img.shields.io/badge/Power-BI-F2C811?logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-success)
-![Status](https://img.shields.io/badge/Status-50%25%20Complete-brightgreen)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📑 Table of Contents
 
