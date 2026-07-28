@@ -4,7 +4,7 @@
 
 ![SQL](https://img.shields.io/badge/SQL-BigQuery-blue)
 ![BigQuery](https://img.shields.io/badge/Google-BigQuery-orange)
-![Power BI](https://img.shields.io/badge/Looker-Studio-blue)
+![Power BI](https://img.shields.io/badge/Power-BI-F2C811?logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-success)
 ![Status](https://img.shields.io/badge/Status-50%25%20Complete-brightgreen)
 
@@ -63,7 +63,7 @@ The SQL queries, documentation, business insights, screenshots, and project orga
 - Identify top-performing products
 - Analyze revenue and customer behavior
 - Calculate conversion metrics
-- Perform funnel analysis
+- Perform advanced SQL analysis using CTEs and Window Functions
 - Build an executive dashboard
 
 ---
@@ -74,7 +74,7 @@ The SQL queries, documentation, business insights, screenshots, and project orga
 - 💻 10 SQL Business Case Studies
 - 📈 Business-Oriented Data Analysis
 - 📷 Query Results & Screenshots
-- 📊 Interactive Power BI Dashboard (Coming Soon)
+- 📊 Power BI Dashboard (Planned)
 - 🔄 Version Controlled with Git & GitHub
 
 ---
@@ -93,12 +93,12 @@ The SQL queries, documentation, business insights, screenshots, and project orga
 
 ## 🛠️ Tools & Technologies
 
-- Google BigQuery
-- SQL (Standard SQL)
-- Power BI
+- SQL (Google BigQuery - Standard SQL)
+- Google Cloud Platform (BigQuery Public Dataset)
+- Power BI *(Planned)*
+- Visual Studio Code
 - Git
 - GitHub
-- Visual Studio Code
 
 ---
 
@@ -148,7 +148,7 @@ The SQL queries, documentation, business insights, screenshots, and project orga
 
 The SQL analysis in this repository is designed to support an interactive business dashboard.
 
-The planned dashboard will include:
+The future Power BI dashboard will include:
 
 - Executive KPIs
 - Revenue Overview
@@ -397,7 +397,6 @@ Google-Merchandise-Store-Analysis/
 - Data Exploration
 - Data Aggregation
 - Filtering
-- Joins
 - CASE WHEN
 - GROUP BY
 - HAVING
@@ -417,15 +416,6 @@ Google-Merchandise-Store-Analysis/
 - Product Performance
 - Revenue Analytics
 - Customer Insights
-
-## 🛠️ Tools & Technologies
-
-- SQL (Google BigQuery)
-- Google Cloud Platform (BigQuery Public Dataset)
-- Visual Studio Code
-- Git
-- GitHub
-- Power BI *(Planned)*
 
 ---
 
@@ -470,7 +460,7 @@ Through this project I practiced:
 
 **Shrutika**
 
-Aspiring Data Analyst
+Aspiring Data Analyst | SQL • Google BigQuery • Power BI • Python
 
 ## 💼 Skills Demonstrated
 
@@ -489,11 +479,16 @@ Aspiring Data Analyst
 
 ## 🌐 Portfolio
 
-Coming Soon
+Currently working on:
 
-- GitHub Repository
 - Power BI Dashboard
 - LinkedIn Project Showcase
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
