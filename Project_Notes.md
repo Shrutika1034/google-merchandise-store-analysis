@@ -371,3 +371,42 @@ Measure website conversion performance across visitors, marketing channels, coun
 - Improve customer acquisition strategies
 - Identify high-converting products
 - Support business decision-making
+
+
+# Lesson 8 – Sales Performance Analysis
+
+## Business Requirement
+
+Analyze sales revenue across marketing channels, countries, products, product categories, and sales dates to identify the main drivers of business performance.
+
+---
+
+## SQL Concepts Learned
+
+- SUM()
+- ROUND()
+- PARSE_DATE()
+- GROUP BY
+- ORDER BY
+- LIMIT
+- WHERE
+
+---
+
+## Business Questions
+
+1. Which marketing channels generate the highest revenue?
+2. Which countries contribute the most revenue?
+3. Which products generate the highest revenue?
+4. Which product categories generate the highest revenue?
+5. Which dates generated the highest revenue?
+
+---
+
+## Business Value
+
+- Identify high-performing marketing channels.
+- Discover the most profitable countries.
+- Recognize best-selling products.
+- Evaluate category performance.
+- Detect peak sales periods for planning campaigns.
