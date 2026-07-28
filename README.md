@@ -131,7 +131,7 @@ The SQL queries, documentation, business insights, screenshots, and project orga
 | ✅ Lesson 6 | Customer Analysis | Completed |
 | ✅ Lesson 7 | Conversion Rate Analysis | Completed |
 | ✅ Lesson 8 | Sales Performance Analysis | Completed |
-| ⏳ Lesson 9 | Window Functions | Upcoming |
+| ✅ Lesson 9 | Advanced SQL Analysis | Completed |
 | ⏳ Lesson 10 | Final Business Dashboard | Upcoming |
 
 ---
@@ -229,6 +229,16 @@ The final project will include:
 
 ---
 
+## ✅ Lesson 9 – Advanced SQL Analysis
+
+- Ranked products by revenue using ROW_NUMBER()
+- Ranked countries using RANK()
+- Ranked marketing channels using DENSE_RANK()
+- Identified the top product in each category
+- Calculated product revenue contribution percentages
+
+---
+
 # 📊 Key Business Insights
 
 ### 📦 Dataset
@@ -303,6 +313,16 @@ The final project will include:
 - Highlighted the products generating the greatest revenue.
 - Evaluated product category performance.
 - Identified peak sales dates to support future campaign planning.
+
+---
+
+### 📊 Advanced SQL Analysis
+
+- Identified the highest revenue-generating products.
+- Ranked countries based on sales performance.
+- Evaluated marketing channel effectiveness.
+- Determined the leading product in each category.
+- Measured each product's contribution to total revenue.
 
 ---
 
