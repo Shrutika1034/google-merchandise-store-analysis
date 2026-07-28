@@ -130,7 +130,7 @@ The SQL queries, documentation, business insights, screenshots, and project orga
 | ✅ Lesson 5 | Revenue Analysis | Completed |
 | ✅ Lesson 6 | Customer Analysis | Completed |
 | ✅ Lesson 7 | Conversion Rate Analysis | Completed |
-| ⏳ Lesson 8 | Funnel Analysis | Upcoming |
+| ✅ Lesson 8 | Sales Performance Analysis | Completed |
 | ⏳ Lesson 9 | Window Functions | Upcoming |
 | ⏳ Lesson 10 | Final Business Dashboard | Upcoming |
 
@@ -219,6 +219,16 @@ The final project will include:
 
 ---
 
+## ✅ Lesson 8 – Sales Performance Analysis
+
+- Compared revenue across marketing channels
+- Ranked countries by revenue
+- Identified the highest revenue-generating products
+- Analyzed revenue by product category
+- Identified the top revenue-generating dates
+
+---
+
 # 📊 Key Business Insights
 
 ### 📦 Dataset
@@ -283,6 +293,16 @@ The final project will include:
 - Compared customer conversion across countries.
 - Ranked the most frequently purchased products.
 - Evaluated product categories based on completed purchases.
+
+---
+
+### 💰 Sales Performance Analysis
+
+- Identified the marketing channels contributing the highest revenue.
+- Ranked countries by total sales revenue.
+- Highlighted the products generating the greatest revenue.
+- Evaluated product category performance.
+- Identified peak sales dates to support future campaign planning.
 
 ---
 
