@@ -410,3 +410,42 @@ Analyze sales revenue across marketing channels, countries, products, product ca
 - Recognize best-selling products.
 - Evaluate category performance.
 - Detect peak sales periods for planning campaigns.
+
+
+# Lesson 9 – Advanced SQL Analysis
+
+## Business Requirement
+
+Use advanced SQL techniques to rank business performance across products, countries, marketing channels, and product categories.
+
+---
+
+## SQL Concepts Learned
+
+- WITH (CTE)
+- ROW_NUMBER()
+- RANK()
+- DENSE_RANK()
+- PARTITION BY
+- Window Functions
+- SUM() OVER()
+
+---
+
+## Business Questions
+
+1. Which products generate the highest revenue?
+2. Which countries rank highest in revenue?
+3. Which marketing channels perform best?
+4. Which product leads each category?
+5. How much revenue does each product contribute?
+
+---
+
+## Business Value
+
+- Prioritize high-value products
+- Identify profitable countries
+- Measure marketing effectiveness
+- Benchmark product categories
+- Understand revenue concentration
