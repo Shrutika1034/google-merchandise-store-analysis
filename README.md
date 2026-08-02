@@ -75,7 +75,7 @@ The SQL queries, documentation, business insights, screenshots, and project orga
 - 💻 10 SQL Business Case Studies
 - 📈 Business-Oriented Data Analysis
 - 📷 Query Results & Screenshots
-- 📊 Power BI Dashboard (Planned)
+- 📊 Interactive Power BI Dashboard
 - 🔄 Version Controlled with Git & GitHub
 
 ---
@@ -147,18 +147,39 @@ The SQL queries, documentation, business insights, screenshots, and project orga
 
 ## 📊 Dashboard
 
-The SQL analysis in this repository is designed to support an interactive business dashboard.
+An interactive **Power BI dashboard** was developed using a representative sample of approximately **100,000 records** exported from the Google Merchandise Store dataset.
 
-The future Power BI dashboard will include:
+> **Note:** SQL analysis was performed on the complete dataset (21M+ records) in Google BigQuery. The Power BI dashboard uses a representative sample to ensure fast report performance.
 
+### Dashboard Pages
+
+#### 📊 Executive Dashboard
 - Executive KPIs
-- Revenue Overview
-- Customer Analysis
-- Product Performance
-- Marketing Performance
-- Geographic Analysis
+- Revenue Trend
+- Revenue by Marketing Channel
+- Revenue by Product Category
+- Top Revenue-Generating Countries
 
-> Dashboard development is planned as the next phase of this project.
+#### 👥 Customer Analysis
+- Top Countries by Visitors
+- Top Cities by Visitors
+- Average Pageviews by Country
+- Average Time on Site by Country
+- Global Visitor Distribution
+
+#### 📦 Product Performance Analysis
+- Top Products by Revenue
+- Top Products by Quantity Sold
+- Top Most Viewed Products
+- Revenue vs Quantity Sold
+- Product Category Performance
+
+#### 📈 Marketing Performance Analysis
+- Revenue by Marketing Channel
+- Visitors by Marketing Channel
+- Transactions by Marketing Channel
+- Conversion Rate by Marketing Channel
+- Revenue Trend by Marketing Channel
 
 ---
 
@@ -381,13 +402,12 @@ Google-Merchandise-Store-Analysis/
 
 # 🚀 Future Enhancements
 
-- Build Power BI Dashboard
-- Publish interactive dashboard
-- Add dashboard screenshots
-- Create KPI cards
-- Customer segmentation
+- Publish the Power BI dashboard to the Power BI Service
+- Add dashboard screenshots to the repository
+- Build advanced DAX measures
+- Perform customer segmentation
 - Customer retention analysis
-- Time-series forecasting
+- Time-series sales forecasting
 
 ---
 
@@ -453,7 +473,8 @@ Through this project I practiced:
 | Countries | 215 |
 | SQL Files | 10 |
 | Screenshots | 30+ |
-| Dashboard | Planned |
+| Dashboard Pages | 4 |
+| Power BI | Completed |
 
 ---
 
@@ -480,10 +501,15 @@ Aspiring Data Analyst | SQL • Google BigQuery • Power BI • Python
 
 ## 🌐 Portfolio
 
-Currently working on:
+Completed:
 
-- Power BI Dashboard
+- End-to-End SQL Analytics Project
+- Interactive Power BI Dashboard
+
+Next:
+
 - LinkedIn Project Showcase
+- Tableau Portfolio Projects
 
 ---
 
