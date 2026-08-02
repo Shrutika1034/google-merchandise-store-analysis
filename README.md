@@ -80,6 +80,21 @@ The SQL queries, documentation, business insights, screenshots, and project orga
 
 ---
 
+## ⚙️ Tech Stack
+
+| Category | Technology |
+|----------|------------|
+| Database | Google BigQuery |
+| Query Language | SQL |
+| Visualization | Power BI |
+| Data Preparation | Power Query |
+| Calculations | DAX |
+| Version Control | Git |
+| Repository | GitHub |
+| IDE | Visual Studio Code |
+
+---
+
 ## 📂 Dataset Information
 
 | Property | Details |
@@ -96,7 +111,9 @@ The SQL queries, documentation, business insights, screenshots, and project orga
 
 - SQL (Google BigQuery - Standard SQL)
 - Google Cloud Platform (BigQuery Public Dataset)
-- Power BI *(Planned)*
+- Power BI
+- Power Query
+- DAX
 - Visual Studio Code
 - Git
 - GitHub
@@ -180,6 +197,26 @@ An interactive **Power BI dashboard** was developed using a representative sampl
 - Transactions by Marketing Channel
 - Conversion Rate by Marketing Channel
 - Revenue Trend by Marketing Channel
+
+---
+
+## 📸 Dashboard Preview
+
+### Executive Dashboard
+
+<img width="511" height="284" alt="Screenshot 2026-08-02 205622" src="https://github.com/user-attachments/assets/9c12aebd-5627-420d-aeff-6c25d6240eee" />
+
+### Customer Analysis
+
+<img width="521" height="295" alt="Screenshot 2026-08-02 205715" src="https://github.com/user-attachments/assets/dc16794d-cfc3-4c5a-893c-73b668dfbf26" />
+
+### Product Performance Analysis
+
+<img width="511" height="286" alt="Screenshot 2026-08-02 205745" src="https://github.com/user-attachments/assets/c89e05d2-4cd0-49ad-a639-77799ce09276" />
+
+### Marketing Performance Analysis
+
+<img width="506" height="288" alt="image" src="https://github.com/user-attachments/assets/9780c9a5-278a-4617-9a95-3311fdef12c9" />
 
 ---
 
@@ -400,14 +437,35 @@ Google-Merchandise-Store-Analysis/
 
 ---
 
-# 🚀 Future Enhancements
+# 🏗️ Project Workflow
 
-- Publish the Power BI dashboard to the Power BI Service
-- Add dashboard screenshots to the repository
+```text
+Google Merchandise Store Dataset
+            │
+            ▼
+Google BigQuery
+            │
+      SQL Analysis
+            │
+Business Insights
+            │
+ Export Sample (100K Rows)
+            │
+            ▼
+Power BI
+            │
+Interactive Dashboard
+```
+---
+
+## 🚀 Future Enhancements
+
+- Publish the Power BI dashboard to Power BI Service
 - Build advanced DAX measures
 - Perform customer segmentation
 - Customer retention analysis
 - Time-series sales forecasting
+- Develop additional business KPI pages
 
 ---
 
@@ -437,6 +495,17 @@ Google-Merchandise-Store-Analysis/
 - Product Performance
 - Revenue Analytics
 - Customer Insights
+
+---
+
+### Power BI
+
+- Power Query
+- Data Modeling
+- DAX Measures
+- Interactive Dashboards
+- Data Visualization
+- Slicers & Filters
 
 ---
 
