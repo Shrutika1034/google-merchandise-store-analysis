@@ -2,17 +2,23 @@
 
 ## Project Overview
 
-This project analyzes the **Google Merchandise Store** dataset using **Google BigQuery SQL** to evaluate customer behavior, marketing performance, product performance, sales, and revenue generation. The objective is to transform raw ecommerce data into actionable business insights that support strategic decision-making.
+This project analyzes the **Google Merchandise Store** dataset using **Google BigQuery SQL** and **Power BI** to evaluate customer behavior, marketing performance, product performance, sales, and revenue generation.
+
+The **SQL analysis was performed on the complete Google Merchandise Store dataset containing over 21 million ecommerce session records** in Google BigQuery. To build an interactive Power BI dashboard with better performance and faster report rendering, a **representative sample of approximately 100,000 records** was exported from BigQuery and imported into Power BI.
+
+The objective of this project is to transform raw ecommerce data into actionable business insights that support data-driven decision-making.
 
 ---
 
 # Executive Summary
 
-The analysis highlights that **Organic Search** is the primary source of website traffic, while a relatively small number of products and marketing channels contribute a significant portion of total revenue. Although the store attracts visitors from over **215 countries**, revenue is concentrated in a few key markets, indicating opportunities to improve conversion rates and expand high-performing regions.
+The SQL analysis of the complete dataset shows that **Organic Search** is the primary source of website traffic, while a relatively small number of products and marketing channels contribute a significant share of total revenue.
+
+The interactive Power BI dashboard presents these insights using a representative sample of approximately **100,000 records**, enabling effective visualization of customer behavior, marketing effectiveness, product performance, and revenue trends.
 
 ---
 
-# Key Findings
+# Key Business Insights
 
 ## 1. Customer Acquisition
 
@@ -24,13 +30,13 @@ The analysis highlights that **Organic Search** is the primary source of website
 
 ### Business Impact
 
-Customer acquisition is highly dependent on SEO, making organic visibility a critical business asset.
+Customer acquisition relies heavily on Organic Search, making SEO one of the company's strongest growth channels.
 
-### Recommendation
+### Recommendations
 
 - Increase investment in SEO.
-- Improve Paid Search campaign targeting.
-- Expand high-performing referral partnerships.
+- Improve Paid Search targeting and campaign optimization.
+- Strengthen partnerships with high-performing referral sources.
 
 ---
 
@@ -39,17 +45,19 @@ Customer acquisition is highly dependent on SEO, making organic visibility a cri
 ### Findings
 
 - The United States generated the highest traffic and revenue.
-- Visitors came from more than **215 countries**.
-- Some countries generated relatively high revenue despite lower traffic volumes.
+- The complete SQL analysis identified visitors from more than **215 countries**.
+- The Power BI dashboard visualizes a representative sample containing visitors from **122 countries**.
+- Several countries generated relatively high revenue despite lower visitor volumes.
 
 ### Business Impact
 
-Several international markets demonstrate strong purchasing behavior and represent growth opportunities.
+High-converting international markets provide opportunities for future business expansion.
 
-### Recommendation
+### Recommendations
 
-- Increase marketing investment in high-conversion countries.
+- Increase investment in high-performing countries.
 - Improve localization strategies for emerging markets.
+- Expand marketing campaigns in regions with strong conversion potential.
 
 ---
 
@@ -57,18 +65,20 @@ Several international markets demonstrate strong purchasing behavior and represe
 
 ### Findings
 
-- A limited number of products generated the majority of total revenue.
-- Several products attracted high traffic but low purchase volume.
+- A small number of products generated the majority of total revenue.
+- Some products received high pageviews but generated relatively fewer purchases.
+- Product categories contributed differently to overall sales performance.
 
 ### Business Impact
 
-Improving product conversion can significantly increase revenue without increasing website traffic.
+Improving product conversion rates can significantly increase revenue without increasing website traffic.
 
-### Recommendation
+### Recommendations
 
-- Optimize product descriptions.
-- Improve product images.
-- Offer promotional discounts on high-traffic products.
+- Optimize product descriptions and images.
+- Promote high-performing products.
+- Offer targeted promotions for high-traffic products.
+- Improve merchandising of underperforming products.
 
 ---
 
@@ -76,17 +86,19 @@ Improving product conversion can significantly increase revenue without increasi
 
 ### Findings
 
-- Revenue is concentrated among a small number of products.
-- High-performing marketing channels consistently generate greater sales.
+- Revenue is concentrated among a limited number of products.
+- Organic Search and Referral channels generated the highest revenue.
+- Revenue trends indicate consistent performance from top acquisition channels.
 
 ### Business Impact
 
-Revenue concentration highlights the importance of focusing resources on profitable products and channels.
+Focusing marketing investments on profitable products and channels can maximize return on investment.
 
-### Recommendation
+### Recommendations
 
 - Continue promoting best-selling products.
-- Allocate more budget to high-performing acquisition channels.
+- Allocate larger budgets to high-performing marketing channels.
+- Monitor revenue trends to support strategic planning.
 
 ---
 
@@ -95,62 +107,109 @@ Revenue concentration highlights the importance of focusing resources on profita
 ### Findings
 
 - Only a portion of visitors completed purchases.
-- Purchase behavior varied across marketing channels and countries.
+- Customer behavior varied across countries and marketing channels.
+- Visitor engagement differed based on traffic source.
 
 ### Business Impact
 
-Improving conversion rates presents a major opportunity for business growth.
+Improving the customer journey presents significant opportunities to increase conversions and revenue.
 
-### Recommendation
+### Recommendations
 
 - Optimize landing pages.
-- Simplify the checkout process.
+- Simplify the checkout experience.
 - Implement personalized product recommendations.
+- Reduce cart abandonment through targeted campaigns.
+
+---
+
+# Dashboard Overview
+
+An interactive Power BI dashboard was developed using a representative sample of approximately **100,000 records** exported from BigQuery.
+
+The dashboard consists of four business-focused pages:
+
+## 📊 Executive Dashboard
+
+- Business KPIs
+- Revenue Trend
+- Revenue by Marketing Channel
+- Revenue by Product Category
+- Top Revenue-Generating Countries
+
+---
+
+## 👥 Customer Analysis
+
+- Top Countries by Visitors
+- Top Cities by Visitors
+- Average Pageviews by Country
+- Average Time on Site by Country
+- Global Visitor Distribution
+
+---
+
+## 📦 Product Performance Analysis
+
+- Top Products by Revenue
+- Top Products by Quantity Sold
+- Top Most Viewed Products
+- Revenue vs Quantity Sold
+- Product Category Performance
+
+---
+
+## 📈 Marketing Performance Analysis
+
+- Revenue by Marketing Channel
+- Visitors by Marketing Channel
+- Transactions by Marketing Channel
+- Conversion Rate by Marketing Channel
+- Revenue Trend by Marketing Channel
 
 ---
 
 # Strategic Business Recommendations
 
-## Marketing Strategy
+## 📈 Marketing Strategy
 
-- Increase SEO investment.
+- Increase investment in Organic Search.
 - Improve Paid Search ROI.
-- Expand successful referral partnerships.
-- Invest more in high-performing international markets.
+- Expand referral partnerships.
+- Focus marketing efforts on high-converting international markets.
 
 ---
 
-## Sales Strategy
+## 💰 Sales Strategy
 
 - Promote best-selling products.
 - Bundle complementary products.
 - Increase cross-selling opportunities.
-- Launch promotional campaigns for high-traffic products.
+- Launch promotions for high-traffic products.
 
 ---
 
-## Website Optimization
+## 🌐 Website Optimization
 
 - Improve website navigation.
-- Simplify the checkout experience.
+- Simplify the checkout process.
 - Reduce cart abandonment.
-- Optimize mobile shopping experience.
+- Optimize the mobile shopping experience.
 
 ---
 
-## Product Strategy
+## 📦 Product Strategy
 
 - Maintain inventory for high-demand products.
 - Review underperforming categories.
-- Introduce personalized product recommendations.
+- Expand personalized product recommendations.
 
 ---
 
-# Skills Demonstrated
-
-## SQL
+# SQL Skills Demonstrated
 
 - SELECT
+- FROM
 - WHERE
 - GROUP BY
 - ORDER BY
@@ -159,9 +218,10 @@ Improving conversion rates presents a major opportunity for business growth.
 - SUM()
 - AVG()
 - ROUND()
-- CASE WHEN
 - CAST()
-- CTE (WITH)
+- IFNULL()
+- CASE WHEN
+- Common Table Expressions (CTEs)
 - Window Functions
 - ROW_NUMBER()
 - RANK()
@@ -171,18 +231,38 @@ Improving conversion rates presents a major opportunity for business growth.
 
 ---
 
-## Business Analytics
+# Business Analytics Skills
 
-- Marketing Analytics
 - Customer Analytics
+- Marketing Analytics
 - Product Analytics
 - Revenue Analysis
 - Sales Performance Analysis
-- Conversion Analysis
+- Conversion Rate Analysis
 - Executive Reporting
+- Dashboard Development
+- Data Visualization
+- Business Intelligence
+
+---
+
+# Tools & Technologies
+
+- Google BigQuery
+- SQL (Standard SQL)
+- Power BI
+- Power Query
+- DAX
+- Git
+- GitHub
+- Visual Studio Code
 
 ---
 
 # Conclusion
 
-This project demonstrates how SQL can be used to transform raw ecommerce data into actionable business intelligence. By analyzing customer behavior, marketing effectiveness, product performance, and revenue trends, the project identifies practical opportunities to improve business performance and supports data-driven decision-making.
+This project demonstrates an end-to-end data analytics workflow by combining **Google BigQuery SQL** and **Power BI** to analyze ecommerce business performance.
+
+The complete Google Merchandise Store dataset was analyzed using SQL to uncover business insights, while a representative sample was used in Power BI to create an interactive dashboard for executive reporting.
+
+The project showcases practical skills in SQL querying, business analytics, data visualization, dashboard development, and transforming raw data into actionable business intelligence.
